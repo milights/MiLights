@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MiLights": {
+      "commandName": "Project",
+      "commandLineArgs": "Zone=1 Color=200 Brightness=50 Saturation=20"
+    }
+  }
+}
