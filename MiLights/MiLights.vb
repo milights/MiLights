@@ -53,6 +53,7 @@
 
     Public Sub New()
         'new without properties test 123
+        'nog een wijziging
 
     End Sub
 

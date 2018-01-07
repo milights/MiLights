@@ -15,6 +15,7 @@ Module Program
             'Next
             'Console.WriteLine(split(args(i))(0))
             'Console.WriteLine(split(args(i))(1))
+            'asdf
 
             If split(args(i))(0).ToString.ToLower = "zone" Then
                 k.Zone = split(args(i))(1)
