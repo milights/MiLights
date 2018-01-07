@@ -52,7 +52,7 @@
     End Sub
 
     Public Sub New()
-        'new without properties
+        'new without properties test 123
 
     End Sub
 
